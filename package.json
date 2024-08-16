@@ -1,0 +1,14 @@
+{
+  "name": "homestead-script",
+  "version": "1.0.0",
+  "description": "a script to generate v1 homestead grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imp0ster",
+  "license": "ISC",
+  "dependencies": {
+    "simplex-noise": "^4.0.3"
+  }
+}
