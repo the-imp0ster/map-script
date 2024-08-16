@@ -16,6 +16,9 @@ This script generates a 50x50 map grid with various terrain types using simplex 
 
 3. **Run the Script:**
     This will generate a file called ```mapGrid.json``` that contains your grid data.
+    ```bash
+    node index.js
+    ```
 
 ### Current Terrain Types
 - Water
